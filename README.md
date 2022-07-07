@@ -4,8 +4,8 @@
  # post 
  
  {
-            "first_name": "happy",
-            "last_name": "birthday",
+            "first_name": "Grace",
+            "last_name": "Menmory",
             "address" : [
                 {
                     "street_name": "test street_name",
